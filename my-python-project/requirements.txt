@@ -1,0 +1,5 @@
+pydantic
+pytest
+firebase-admin==6.6.0
+jsonpath-ng==1.6.0
+pytest-mock
